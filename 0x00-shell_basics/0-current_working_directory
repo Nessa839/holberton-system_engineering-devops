@@ -1,5 +1,2 @@
-#! /bin/bash
-var1="/c/Users/peke_/holberton-system_engineering-devops/0x00-shell_basics"
-clear
-echo $var1
-exit
+#!/bin/bash
+pwd
