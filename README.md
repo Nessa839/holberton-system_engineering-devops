@@ -1,1 +1,1 @@
-This helps us to know where we are
+First shell project
