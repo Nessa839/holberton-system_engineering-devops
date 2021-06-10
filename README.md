@@ -1,1 +1,1 @@
-First shell project
+Second shell project
