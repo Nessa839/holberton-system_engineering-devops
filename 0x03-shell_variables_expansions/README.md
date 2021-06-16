@@ -1,0 +1,1 @@
+This is the folder for shell files, variables and espansions 
